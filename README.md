@@ -45,7 +45,7 @@ Sau khi hoàn tất cài đặt và cấu hình, bạn có thể chạy dự án
 npm start
 ```
 
-Dự án sẽ chạy ở địa chỉ `http://localhost:3000` (mặc định). Bạn có thể thay đổi cổng hoặc các thiết lập khác trong file cấu hình nếu cần.
+Dự án sẽ chạy ở địa chỉ `http://localhost:4001` (mặc định). Bạn có thể thay đổi cổng hoặc các thiết lập khác trong file cấu hình nếu cần.
 
 ## API Endpoints
 
